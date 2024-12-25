@@ -1,5 +1,6 @@
 {
   "name": "Header Logout Button",
+  "component": true,
   "description": "Adds a logout button to the header",
   "version": "0.1",
   "authors": ["Pushpender Singh"]
