@@ -1,2 +1,2 @@
-# Alogout Button in header
+# A logout Button in header
  
