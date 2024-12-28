@@ -1,7 +1,48 @@
 {
-  "name": "Header Logout Button",
+  "name": "logout-header",
   "component": true,
-  "description": "Adds a logout button to the header",
-  "version": "0.1",
-  "authors": ["Pushpender Singh"]
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "footer": "assets/footer.svg",
+    "Mulish-Italic": "assets/Mulish-Italic.ttf",
+    "Mulish-VariableFont_wght": "assets/Mulish-VariableFont_wght.ttf",
+    "Spanish": "assets/Spanish.jpg"
+  },
+  "color_schemes": {
+    "mint-light": {
+      "primary": "454545",
+      "secondary": "f6fbfc",
+      "tertiary": "4f8a7c",
+      "quaternary": "e45735",
+      "header_background": "ffffff",
+      "header_primary": "111111",
+      "highlight": "ffff4d",
+      "selected": "e3efec",
+      "hover": "e3efec",
+      "danger": "c80001",
+      "success": "009900",
+      "love": "fa6c8d"
+    },
+    "lingopie": {
+      "primary": "303030",
+      "secondary": "fafcfd",
+      "tertiary": "25cced",
+      "quaternary": "65a0fb",
+      "header_background": "ffffff",
+      "header_primary": "333333",
+      "highlight": "feda32",
+      "selected": "d1f0ff",
+      "hover": "f2f2f2",
+      "danger": "e41818",
+      "success": "2bab2b",
+      "love": "fc7f7f"
+    }
+  },
+  "modifiers": {},
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
