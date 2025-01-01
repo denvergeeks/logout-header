@@ -1,0 +1,6 @@
+hide_log_out_text_in_header:
+  type: bool
+  default: false
+  description:
+    en:
+      "Remove the 'log out' text in the header next to the logout button."
