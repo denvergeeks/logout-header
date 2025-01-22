@@ -9,7 +9,7 @@ if (settings.hide_log_out_text_in_header) {
       <DButton
         @action={{routeAction "logout"}}
         class="btn-flat icon"
-        @icon="sign-out-alt"
+        @icon="right-from-bracket"
         @title="user.log_out"
       />
     </li>
@@ -20,7 +20,7 @@ if (settings.hide_log_out_text_in_header) {
       <DButton
         @action={{routeAction "logout"}}
         class="btn-flat icon"
-        @icon="sign-out-alt"
+        @icon="right-from-bracket"
         @title="user.log_out"
         @label="user.log_out"
       />
